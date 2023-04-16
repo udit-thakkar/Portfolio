@@ -20,4 +20,4 @@ My Data Analysis portfolio
 * High emphasis was made to optimize the subjectivity and polarity by using the inflect engine to convert numerical data to text data, removing punctuations, cleaning the review by removing the stopwords and later used WordLemmatizer to get the root word of the comments.
 * The aim of the project was to identify whether the reviews are positive, negative or neutral. TextBlob is used to find the subjectivity and polarity of the reviews, and then sentiment is determined based on the scores.
 
-[](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/PolarityvsSubjectivity.png)
+![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/PolarityvsSubjectivity.png)

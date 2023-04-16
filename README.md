@@ -1,8 +1,7 @@
 # Udit Thakkar
-
 My Data Analysis portfolio
 
-# Project 1: Student Performance-Machine Learning
+# [Project 1: Student Performance-Machine Learning](https://github.com/udit-thakkar/Student-Performance-Machine-Learning-Project)
 * Univariate analysis techniques such as histograms, kernel density plots, and box plots were used to understand the distribution and spread of individual variables in the dataset.
 * Bivariate analysis techniques such as scatter plots, pair plots, and correlation matrices were used to explore the relationship between different variables in the dataset.
 * Outliers and anomalies were detected using box plots and scatter plots.

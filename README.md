@@ -14,6 +14,8 @@ My Data Analysis portfolio
 * Finally, a Linear Regression model was used for the project.
 
 # [Project 2: Customer Sentiment Analysis with NLP, TextBlob & BeautifulSoup](https://github.com/udit-thakkar/NLP-Customer-Sentiment-Analysis)
-* This project performs sentiment analysis on customer reviews using Natural Language Processing (NLP).
-* It uses NLTK toolkit for NLP and Beautifulsoup for web scraping of customer reviews. 
-* The aim of the project is to identify whether the reviews are positive, negative or neutral. TextBlob is used to find the subjectivity and polarity of the reviews, and then sentiment is determined based on the scores.
+* The project performed sentiment analysis on customer reviews using Natural Language Processing (NLP).
+* I used NLTK toolkit for NLP and Beautifulsoup for web scraping of customer reviews by building a block of code which scraped the name of the person who reviewed the product, how much ratings given, title of the review and the whole review.
+* All the reviews were then analysed through Pandas dataframe which later helped to analyse Word count, Review Length, Stopword_Count	and Stopword Rate.
+* High emphasis was made to optimize the subjectivity and polarity by using the inflect engine to convert numerical data to text data, removing punctuations, cleaning the review by removing the stopwords and later used WordLemmatizer to get the root word of the comments.
+* The aim of the project was to identify whether the reviews are positive, negative or neutral. TextBlob is used to find the subjectivity and polarity of the reviews, and then sentiment is determined based on the scores.

@@ -21,3 +21,5 @@ My Data Analysis portfolio
 * The aim of the project was to identify whether the reviews are positive, negative or neutral. TextBlob is used to find the subjectivity and polarity of the reviews, and then sentiment is determined based on the scores.
 
 ![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/PolarityvsSubjectivity.png)
+![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/ratingspiechart.png)
+![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/cleaned_comments_wordcloud.png)

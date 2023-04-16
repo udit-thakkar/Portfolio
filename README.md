@@ -12,3 +12,8 @@ My Data Analysis portfolio
 * An Evaluate Function was created to calculate various evaluation metrics after training each model.
 * The models were then sorted by their best r2 score.
 * Finally, a Linear Regression model was used for the project.
+
+# [Project 2: Customer Sentiment Analysis with NLP, TextBlob & BeautifulSoup](https://github.com/udit-thakkar/NLP-Customer-Sentiment-Analysis)
+* This project performs sentiment analysis on customer reviews using Natural Language Processing (NLP).
+* It uses NLTK toolkit for NLP and Beautifulsoup for web scraping of customer reviews. 
+* The aim of the project is to identify whether the reviews are positive, negative or neutral. TextBlob is used to find the subjectivity and polarity of the reviews, and then sentiment is determined based on the scores.

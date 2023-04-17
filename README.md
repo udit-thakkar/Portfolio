@@ -22,4 +22,4 @@ My Data Analysis portfolio
 
 ![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/PolarityvsSubjectivity.png?raw=true)
 ![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/ratingspiechart.png?raw=true)
-![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/cleaned_comments_wordcloud.png?raw=true)
+![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/cleaned_comments_wordcloud.png?raw=true&sanitize=true&size=<700>)

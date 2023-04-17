@@ -26,6 +26,10 @@ I am continually pushing myself to learn more and stay up-to-date with the lates
 * An Evaluate Function was created to calculate various evaluation metrics after training each model.
 * The models were then sorted by their best r2 score.
 * Finally, a [Linear Regression](https://github.com/udit-thakkar/ML-Projects/blob/main/notebooks/Model%20Training%20Stud%20Perf%20Indi.ipynb) model was used for the project.
+<div align="center">
+  <img src="https://github.com/udit-thakkar/Portfolio/blob/main/images/insight1.PNG?raw=true" width="600" height="300" />
+  <img src="https://github.com/udit-thakkar/Portfolio/blob/main/images/insight2.PNG?raw=true" width="600" height="300"/>
+</div>
 
 # [Project 2: Customer Sentiment Analysis with NLP, TextBlob & BeautifulSoup](https://github.com/udit-thakkar/NLP-Customer-Sentiment-Analysis)
 * The project performed sentiment analysis on customer reviews using Natural Language Processing (NLP).

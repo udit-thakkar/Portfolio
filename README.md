@@ -1,4 +1,4 @@
-<div>
+<div style="margin-bottom: 20px;">
     <a href="https://www.linkedin.com/in/udit-thakkar/">
         <img align="left" src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/dp.jpg?raw=true" width="200" />
     </a>

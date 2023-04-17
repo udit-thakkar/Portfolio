@@ -1,9 +1,19 @@
-<div align="left">
-<img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/dp.jpg?raw=true" width="200" />
+<div>
+    <a href="https://www.linkedin.com/in/udit-thakkar/">
+        <img align="left" src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/dp.jpg?raw=true" width="200" />
+    </a>
+    <h1><a href="https://www.linkedin.com/in/udit-thakkar/">Udit Thakkar</a></h1>
 </div>
 
-# [Udit Thakkar](https://www.linkedin.com/in/udit-thakkar/)
-My Data Analysis portfolio
+<h2>About</h2>
+    <p>As a Bachelors of Engineering in Mechanical Engineering and <strong>Masters of Engineering in Industrial Engineering graduate</strong>, I have always been fascinated by the power of analytics. In mid-2021, I discovered the world of <strong>Data Science, Business Intelligence, and automation</strong>, and it has been my passion ever since.
+
+My interest in these fields stems from a desire to leverage my industrial engineering degree, and I have spent countless hours self-learning and mastering the necessary tools and skills. I have experience with a range of tools, including <strong>Tableau, PowerBI, Python, Advanced Excel, ML, NLP, and various Python libraries such as Pandas, Numpy, Seaborn, Matplotlib, PyTorch, Sci-kit learn, Keras, Scrapy, BeautifulSoup, and SciPy</strong>.
+
+I am continually pushing myself to learn more and stay up-to-date with the latest industry developments, and I believe that the possibilities for innovation in this field are endless. I am excited to apply my skills and knowledge to drive insights and optimize operations for businesses, and I am confident that my analytical mindset and expertise will be valuable assets to any team.</p>
+  </div>
+</div>
+
 
 # [Project 1: Student Performance-Machine Learning](https://github.com/udit-thakkar/Student-Performance-Machine-Learning-Project)
 * Univariate analysis techniques such as histograms, kernel density plots, and box plots were used to understand the distribution and spread of individual variables in the dataset.
@@ -25,7 +35,7 @@ My Data Analysis portfolio
 * The aim of the project was to identify whether the reviews are positive, negative or neutral. TextBlob is used to find the subjectivity and polarity of the reviews, and then sentiment is determined based on the scores.
 
 <div align="center">
-<img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/PolarityvsSubjectivity.png?raw=true" width="400" />
-<img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/ratingspiechart.png?raw=true" width="400" />
-<img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/cleaned_comments_wordcloud.png?raw=true" width="400" />
+  <img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/PolarityvsSubjectivity.png?raw=true" width="400" />
+  <img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/ratingspiechart.png?raw=true" width="400" />
+  <img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/cleaned_comments_wordcloud.png?raw=true" width="400" />
 </div>

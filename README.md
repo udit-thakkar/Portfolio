@@ -58,7 +58,11 @@ I am continually pushing myself to learn more and stay up-to-date with the lates
 * Built a dashboard that allowed stakeholders to interact with the data and explore different segments of customers to gain a deeper understanding of the root causes of churn
 * Analyzed the relationship between credit type and churn rate, identifying the types of credit products that were associated with higher rates of churn
 * Grouped customers into bins based on key attributes such as credit score, income level, and transaction frequency, and determined the ratio of exited customers for each bin, enabling the organization to identify specific customer segments that were at higher risk of churn
-<video width="640"  height="360" src="http://www.youtube.com/demo/google_main.mp4"  controls preload>
-<p> Try this page in a modern browser! Or you can <a  href="http://www.youtube.com/demo/google_main.mp4">download the  video</a> instead.</p>
-  </video>
+
+<div align="center">
+  <a href="https://github.com/udit-thakkar/Portfolio/blob/main/images/Power%20BI%20Desktop%2016-03-2023%2002_45_51.png?raw=true">
+    <img src="https://github.com/udit-thakkar/Portfolio/blob/main/images/Power%20BI%20Desktop%2016-03-2023%2002_45_51.png?raw=true" width="400" height="550" />
+  </a>
+</div>
+
 

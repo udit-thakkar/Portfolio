@@ -61,7 +61,7 @@ I am continually pushing myself to learn more and stay up-to-date with the lates
 
 <div align="center">
   <a href="https://github.com/udit-thakkar/Portfolio/blob/main/images/Power%20BI%20Desktop%2016-03-2023%2002_45_51.png?raw=true">
-    <img src="https://github.com/udit-thakkar/Portfolio/blob/main/images/Power%20BI%20Desktop%2016-03-2023%2002_45_51.png?raw=true" width="500" height="300" />
+    <img src="https://github.com/udit-thakkar/Portfolio/blob/main/images/Power%20BI%20Desktop%2016-03-2023%2002_45_51.png?raw=true" width="600" height="350" />
   </a>
 </div>
 

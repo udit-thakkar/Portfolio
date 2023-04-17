@@ -1,5 +1,5 @@
 <div align="left">
-<img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/dp.jpg" width="200" />
+<img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/dp.jpg?raw=true" width="200" />
 </div>
 
 # [Udit Thakkar](https://www.linkedin.com/in/udit-thakkar/)

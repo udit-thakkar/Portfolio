@@ -58,8 +58,7 @@ I am continually pushing myself to learn more and stay up-to-date with the lates
 * Built a dashboard that allowed stakeholders to interact with the data and explore different segments of customers to gain a deeper understanding of the root causes of churn
 * Analyzed the relationship between credit type and churn rate, identifying the types of credit products that were associated with higher rates of churn
 * Grouped customers into bins based on key attributes such as credit score, income level, and transaction frequency, and determined the ratio of exited customers for each bin, enabling the organization to identify specific customer segments that were at higher risk of churn
-<div align="center">
-    <video src="https://dl.dropboxusercontent.com/s/zbofw7v05x2toaq/powerbicchurnvid.mp4?raw=1" width="600" height="300" ></video>
-   </a>
-</div>
+<video width="640"  height="360" src="http://www.youtube.com/demo/google_main.mp4"  controls preload>
+<p> Try this page in a modern browser! Or you can <a  href="http://www.youtube.com/demo/google_main.mp4">download the  video</a> instead.</p>
+  </video>
 

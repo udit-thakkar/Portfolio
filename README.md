@@ -1,5 +1,6 @@
 # Udit Thakkar
 My Data Analysis portfolio
+![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/dp.jpg "Udit Thakkar - Data Analyst")
 
 # [Project 1: Student Performance-Machine Learning](https://github.com/udit-thakkar/Student-Performance-Machine-Learning-Project)
 * Univariate analysis techniques such as histograms, kernel density plots, and box plots were used to understand the distribution and spread of individual variables in the dataset.
@@ -22,4 +23,4 @@ My Data Analysis portfolio
 
 ![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/PolarityvsSubjectivity.png?raw=true)
 ![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/ratingspiechart.png?raw=true)
-![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/cleaned_comments_wordcloud.png?raw=true&sanitize=true&size=<700>)
+![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/cleaned_comments_wordcloud.png?raw=true&sanitize=true&size=<100>)

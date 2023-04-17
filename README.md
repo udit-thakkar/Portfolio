@@ -1,6 +1,9 @@
-# Udit Thakkar
+<div align="left">
+<img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/dp.jpg" width="200" />
+</div>
+
+# [Udit Thakkar](https://www.linkedin.com/in/udit-thakkar/)
 My Data Analysis portfolio
-![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/dp.jpg "Udit Thakkar - Data Analyst")
 
 # [Project 1: Student Performance-Machine Learning](https://github.com/udit-thakkar/Student-Performance-Machine-Learning-Project)
 * Univariate analysis techniques such as histograms, kernel density plots, and box plots were used to understand the distribution and spread of individual variables in the dataset.
@@ -21,6 +24,8 @@ My Data Analysis portfolio
 * High emphasis was made to optimize the subjectivity and polarity by using the inflect engine to convert numerical data to text data, removing punctuations, cleaning the review by removing the stopwords and later used WordLemmatizer to get the root word of the comments.
 * The aim of the project was to identify whether the reviews are positive, negative or neutral. TextBlob is used to find the subjectivity and polarity of the reviews, and then sentiment is determined based on the scores.
 
-![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/PolarityvsSubjectivity.png?raw=true)
-![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/ratingspiechart.png?raw=true)
-![](https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/cleaned_comments_wordcloud.png?raw=true&sanitize=true&size=<100>)
+<div align="center">
+<img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/PolarityvsSubjectivity.png" width="400" />
+<img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/ratingspiechart.png" width="400" />
+<img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/cleaned_comments_wordcloud.png" width="400" />
+</div>

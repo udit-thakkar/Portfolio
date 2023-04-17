@@ -44,7 +44,14 @@ I am continually pushing myself to learn more and stay up-to-date with the lates
 * The aim of the project was to identify whether the reviews are positive, negative or neutral. TextBlob is used to find the subjectivity and polarity of the reviews, and then sentiment is determined based on the scores.
 
 <div align="center">
-  <img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/PolarityvsSubjectivity.png?raw=true" width="400" />
-  <img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/ratingspiechart.png?raw=true" width="400" />
-  <img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/cleaned_comments_wordcloud.png?raw=true" width="400" />
+  <a href="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/PolarityvsSubjectivity.png?raw=true">
+    <img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/PolarityvsSubjectivity.png?raw=true" width="400" />
+  </a>
+  <a href="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/ratingspiechart.png?raw=true">
+    <img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/ratingspiechart.png?raw=true" width="400" />
+  </a>
+  <a href="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/cleaned_comments_wordcloud.png?raw=true">
+    <img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/cleaned_comments_wordcloud.png?raw=true" width="400" />
+  </a>
 </div>
+

@@ -52,3 +52,14 @@ I am continually pushing myself to learn more and stay up-to-date with the lates
   </a>
 </div>
 
+# [Project 3: Customer Churn Analysis with PowerBI](https://github.com/udit-thakkar/Customer-Churn-Analysis---PowerBI)
+* Conducted a comprehensive analysis of customer churn using PowerBI to identify trends and patterns in customer behavior
+* Utilized a variety of data visualization techniques such as line charts, scatter plots, and heat maps to present insights in a clear and actionable manner
+* Built a dashboard that allowed stakeholders to interact with the data and explore different segments of customers to gain a deeper understanding of the root causes of churn
+* Analyzed the relationship between credit type and churn rate, identifying the types of credit products that were associated with higher rates of churn
+* Grouped customers into bins based on key attributes such as credit score, income level, and transaction frequency, and determined the ratio of exited customers for each bin, enabling the organization to identify specific customer segments that were at higher risk of churn
+<div align="center">
+  <a href="https://youtu.be/hnY6sX_8nEg">
+    <video src="https://youtu.be/hnY6sX_8nEg" width="600" height="300" type="video/mp4"></video>
+  </a>
+</div>

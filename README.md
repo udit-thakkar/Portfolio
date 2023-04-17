@@ -59,7 +59,7 @@ I am continually pushing myself to learn more and stay up-to-date with the lates
 * Analyzed the relationship between credit type and churn rate, identifying the types of credit products that were associated with higher rates of churn
 * Grouped customers into bins based on key attributes such as credit score, income level, and transaction frequency, and determined the ratio of exited customers for each bin, enabling the organization to identify specific customer segments that were at higher risk of churn
 <div align="center">
-  <a href="https://youtu.be/hnY6sX_8nEg">
-    <video src="https://youtu.be/hnY6sX_8nEg" width="600" height="300" type="video/mp4"></video>
+  <a href="https://www.dropbox.com/s/zbofw7v05x2toaq/powerbicchurnvid.mp4?dl=0?raw=true">
+    <video src="https://www.dropbox.com/s/zbofw7v05x2toaq/powerbicchurnvid.mp4?dl=0?raw=true" width="600" height="300" type="video/mp4"></video>
   </a>
 </div>

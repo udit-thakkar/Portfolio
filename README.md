@@ -6,7 +6,7 @@
 </div>
 
 <h2>About</h2>
-    <p>As a Bachelors of Engineering in Mechanical Engineering and <strong>Masters of Engineering in Industrial Engineering graduate</strong>, I have always been fascinated by the power of analytics. In mid-2021, I discovered the world of <strong>Data Science, Business Intelligence, and automation</strong>, and it has been my passion ever since.
+<p>As a Bachelors of Engineering in Mechanical Engineering and <strong>Masters of Engineering in Industrial Engineering graduate</strong>, I have always been fascinated by the power of analytics. In mid-2021, I discovered the world of <strong>Data Science, Business Intelligence, and automation</strong>, and it has been my passion ever since.
 
 My interest in these fields stems from a desire to leverage my industrial engineering degree, and I have spent countless hours self-learning and mastering the necessary tools and skills. I have experience with a range of tools, including <strong>Tableau, PowerBI, Python, Advanced Excel, ML, NLP, and various Python libraries such as Pandas, Numpy, Seaborn, Matplotlib, PyTorch, Sci-kit learn, Keras, Scrapy, BeautifulSoup, and SciPy</strong>.
 

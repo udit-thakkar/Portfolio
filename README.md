@@ -1,9 +1,10 @@
 <div style="margin-bottom: 30px;">
     <a href="https://www.linkedin.com/in/udit-thakkar/">
-        <img align="left" src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/dp.jpg?raw=true" width="200" />
+        <img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/dp.jpg?raw=true" width="200" />
     </a>
     <h1><a href="https://www.linkedin.com/in/udit-thakkar/">Udit Thakkar</a></h1>
 </div>
+
 
 <h2>About</h2>
 <p>As a Bachelors of Engineering in Mechanical Engineering and <strong>Masters of Engineering in Industrial Engineering graduate</strong>, I have always been fascinated by the power of analytics. In mid-2021, I discovered the world of <strong>Data Science, Business Intelligence, and automation</strong>, and it has been my passion ever since.

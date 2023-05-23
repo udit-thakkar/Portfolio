@@ -66,7 +66,7 @@ I am continually pushing myself to learn more and stay up-to-date with the lates
   </a>
 </div>
 
-# [Project 4: ](https://github.com/udit-thakkar/PowerBI-Sales-Analysis)
+# [Project 4: Superstore Sales Analysis with PowerBI](https://github.com/udit-thakkar/PowerBI-Sales-Analysis)
 * Created complex calculations and measures using DAX for meaningful insights.
 * Implemented drill-down and filtering functionality for data exploration.
 * Converted date-time data to showcase quarterly sales and profits.
@@ -78,7 +78,7 @@ I am continually pushing myself to learn more and stay up-to-date with the lates
     <img src="https://github.com/udit-thakkar/PowerBI-Sales-Analysis/blob/main/SuperstoreData.PNG?raw=true" width="400" />
   </a>
   <a href="https://github.com/udit-thakkar/PowerBI-Sales-Analysis/blob/main/ERD.PNG?raw=true?">
-    <img src="https://github.com/udit-thakkar/Udit_Portfolio/blob/main/images/ratingspiechart.png?raw=true" width="400" />
+    <img src="https://github.com/udit-thakkar/PowerBI-Sales-Analysis/blob/main/ERD.PNG?raw=true?" width="400" />
   </a>
 </div>
 

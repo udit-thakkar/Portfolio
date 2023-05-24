@@ -1,1 +1,2 @@
-theme: jekyll-theme-Vonge
+#theme: jekyll-theme-Vonge
+remote_theme: hydecorp/hydejack@v9
